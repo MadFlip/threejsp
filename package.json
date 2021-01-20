@@ -16,7 +16,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "gsap": "^3.5.1",
+    "gsap": "^3.6.0",
     "websocket-extensions": "^0.1.4"
   },
   "main": "index.js",
